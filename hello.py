@@ -1,10 +1,9 @@
 
 print('hello1')
+
 print('修改文件hello2')
 
 print('dev分支中添加hello3')
-Administrator@PC-201711261723 MINGW64 /
-$ ls
-bin/  etc/           LICENSE.txt  ReleaseNotes.html  unins000.dat   usr/
-cmd/  git-bash.exe*  mingw64/     test/              unins000.exe*
-dev/  git-cmd.exe*   proc/        tmp/               unins000.msg
+
+print('dev2分支添加的新内容~')
+
